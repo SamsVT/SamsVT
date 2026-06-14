@@ -1,9 +1,60 @@
-- 👋 Hi, I’m @Sam_Sams
-- 👀 I’m interested in JavaScript/Python/Vuejs and mouch more!
-- 🌱 I’m currently learning website
-- ⚡ Fun fact: i like chokolate!
+<div align="center">
 
-<!---
-SSam123321/SSam123321 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Sam Su
+
+### 🎨 Designer • 🚀 Community Builder
+
+Building projects, communities and experiences people enjoy using.
+
+
+---
+
+## 👋 About Me
+
+Designer first, developer second.
+
+I enjoy turning ideas into real projects, building communities, and creating experiences people love to use.
+
+---
+
+## ⚡ Daily Driver
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,python,vue,astro,html,css,linux,docker,cloudflare,git,github,vscode" />
+
+<br><br>
+
+<img src="https://cdn.simpleicons.org/canva/00C4CC" width="48" height="48" alt="Canva" />
+<img src="https://cdn.simpleicons.org/discord/5865F2" width="48" height="48" alt="Discord" />
+
+</div>
+
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SamsVT&show_icons=true&theme=tokyonight" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamsVT&layout=compact&theme=tokyonight" />
+
+</div>
+
+---
+
+## ⚡ Fun Facts
+
+* 🍫 Chocolate is my primary fuel.
+* 💡 Most ideas come when I'm away from my computer.
+* 🎨 I enjoy designing more than writing systems.
+* 🚀 I love building projects from scratch.
+
+---
+
+<div align="center">
+
+### Designer First. Developer Second.
+
+</div>
