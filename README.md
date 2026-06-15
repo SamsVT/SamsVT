@@ -23,10 +23,8 @@ I enjoy creating things that people genuinely find useful, whether that's a webs
 ---
 
 ## 🚀 Current Projects
-
-* 🐾 **Fur Sanctuary** — Community platform and ecosystem
 * ☁️ **MinNu.Cloud** — Cloud and game hosting services
-* 🎨 **Q Team Studio** — Design, development, and creative projects
+* 🎨 **CatLab_** — Design, development, and creative projects
 
 ---
 
