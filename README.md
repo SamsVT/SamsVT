@@ -57,8 +57,19 @@ I enjoy creating things that people genuinely find useful, whether that's a webs
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=SamsVT&show_icons=true&theme=tokyonight" alt="Sam's GitHub Stats" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamsVT&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <!-- GitHub Stats Card -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=SamsVT&show_icons=true&theme=tokyonight">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=SamsVT&show_icons=true&theme=default">
+    <img height="175" src="https://github-readme-stats.vercel.app/api?username=SamsVT&show_icons=true&theme=tokyonight" alt="Sam's GitHub Stats" />
+  </picture>
+  
+  <!-- Top Languages Card -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SamsVT&layout=compact&theme=tokyonight">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=SamsVT&layout=compact&theme=default">
+    <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamsVT&layout=compact&theme=tokyonight" alt="Top Languages" />
+  </picture>
 </div>
 
 ---
