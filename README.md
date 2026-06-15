@@ -76,7 +76,7 @@ I enjoy creating things that people genuinely find useful, whether that's a webs
 
 ## 📫 Connect With Me
 
-* Discord: **samsu**
+* Discord: **sam_sam8072**
 * GitHub: **@SamsVT**
 
 ---
